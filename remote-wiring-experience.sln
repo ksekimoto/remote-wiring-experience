@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.24720.0
+# Visual Studio 15
+VisualStudioVersion = 15.0.33919.361
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "remote-wiring-experience", "remote-wiring-experience\remote-wiring-experience.csproj", "{F57A7C87-A25D-4ECA-A1F6-9F251DA8C10D}"
 EndProject
@@ -21,9 +21,9 @@ Global
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{F57A7C87-A25D-4ECA-A1F6-9F251DA8C10D}.Debug|ARM.ActiveCfg = Debug|ARM
-		{F57A7C87-A25D-4ECA-A1F6-9F251DA8C10D}.Debug|ARM.Build.0 = Debug|ARM
-		{F57A7C87-A25D-4ECA-A1F6-9F251DA8C10D}.Debug|ARM.Deploy.0 = Debug|ARM
+		{F57A7C87-A25D-4ECA-A1F6-9F251DA8C10D}.Debug|ARM.ActiveCfg = Debug|x64
+		{F57A7C87-A25D-4ECA-A1F6-9F251DA8C10D}.Debug|ARM.Build.0 = Debug|x64
+		{F57A7C87-A25D-4ECA-A1F6-9F251DA8C10D}.Debug|ARM.Deploy.0 = Debug|x64
 		{F57A7C87-A25D-4ECA-A1F6-9F251DA8C10D}.Debug|x64.ActiveCfg = Debug|x64
 		{F57A7C87-A25D-4ECA-A1F6-9F251DA8C10D}.Debug|x64.Build.0 = Debug|x64
 		{F57A7C87-A25D-4ECA-A1F6-9F251DA8C10D}.Debug|x64.Deploy.0 = Debug|x64
@@ -39,8 +39,8 @@ Global
 		{F57A7C87-A25D-4ECA-A1F6-9F251DA8C10D}.Release|x86.ActiveCfg = Release|x86
 		{F57A7C87-A25D-4ECA-A1F6-9F251DA8C10D}.Release|x86.Build.0 = Release|x86
 		{F57A7C87-A25D-4ECA-A1F6-9F251DA8C10D}.Release|x86.Deploy.0 = Release|x86
-		{F0A53BC9-C617-47DD-8B68-F91E3502D633}.Debug|ARM.ActiveCfg = Debug|ARM
-		{F0A53BC9-C617-47DD-8B68-F91E3502D633}.Debug|ARM.Build.0 = Debug|ARM
+		{F0A53BC9-C617-47DD-8B68-F91E3502D633}.Debug|ARM.ActiveCfg = Debug|x64
+		{F0A53BC9-C617-47DD-8B68-F91E3502D633}.Debug|ARM.Build.0 = Debug|x64
 		{F0A53BC9-C617-47DD-8B68-F91E3502D633}.Debug|x64.ActiveCfg = Debug|x64
 		{F0A53BC9-C617-47DD-8B68-F91E3502D633}.Debug|x64.Build.0 = Debug|x64
 		{F0A53BC9-C617-47DD-8B68-F91E3502D633}.Debug|x86.ActiveCfg = Debug|Win32
@@ -51,8 +51,8 @@ Global
 		{F0A53BC9-C617-47DD-8B68-F91E3502D633}.Release|x64.Build.0 = Release|x64
 		{F0A53BC9-C617-47DD-8B68-F91E3502D633}.Release|x86.ActiveCfg = Release|Win32
 		{F0A53BC9-C617-47DD-8B68-F91E3502D633}.Release|x86.Build.0 = Release|Win32
-		{5A8B1BB1-7CD5-47C4-A1F7-D7BCF5FACAD1}.Debug|ARM.ActiveCfg = Debug|ARM
-		{5A8B1BB1-7CD5-47C4-A1F7-D7BCF5FACAD1}.Debug|ARM.Build.0 = Debug|ARM
+		{5A8B1BB1-7CD5-47C4-A1F7-D7BCF5FACAD1}.Debug|ARM.ActiveCfg = Debug|x64
+		{5A8B1BB1-7CD5-47C4-A1F7-D7BCF5FACAD1}.Debug|ARM.Build.0 = Debug|x64
 		{5A8B1BB1-7CD5-47C4-A1F7-D7BCF5FACAD1}.Debug|x64.ActiveCfg = Debug|x64
 		{5A8B1BB1-7CD5-47C4-A1F7-D7BCF5FACAD1}.Debug|x64.Build.0 = Debug|x64
 		{5A8B1BB1-7CD5-47C4-A1F7-D7BCF5FACAD1}.Debug|x86.ActiveCfg = Debug|Win32
@@ -63,8 +63,8 @@ Global
 		{5A8B1BB1-7CD5-47C4-A1F7-D7BCF5FACAD1}.Release|x64.Build.0 = Release|x64
 		{5A8B1BB1-7CD5-47C4-A1F7-D7BCF5FACAD1}.Release|x86.ActiveCfg = Release|Win32
 		{5A8B1BB1-7CD5-47C4-A1F7-D7BCF5FACAD1}.Release|x86.Build.0 = Release|Win32
-		{8376216C-282A-4927-B9EF-C2D545FE0BCA}.Debug|ARM.ActiveCfg = Debug|ARM
-		{8376216C-282A-4927-B9EF-C2D545FE0BCA}.Debug|ARM.Build.0 = Debug|ARM
+		{8376216C-282A-4927-B9EF-C2D545FE0BCA}.Debug|ARM.ActiveCfg = Debug|x64
+		{8376216C-282A-4927-B9EF-C2D545FE0BCA}.Debug|ARM.Build.0 = Debug|x64
 		{8376216C-282A-4927-B9EF-C2D545FE0BCA}.Debug|x64.ActiveCfg = Debug|x64
 		{8376216C-282A-4927-B9EF-C2D545FE0BCA}.Debug|x64.Build.0 = Debug|x64
 		{8376216C-282A-4927-B9EF-C2D545FE0BCA}.Debug|x86.ActiveCfg = Debug|Win32
@@ -78,5 +78,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA5314B2-1E5E-4A55-91C0-F46D8831D235}
 	EndGlobalSection
 EndGlobal
